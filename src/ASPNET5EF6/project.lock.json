@@ -1,0 +1,115 @@
+{
+  "locked": false,
+  "version": 2,
+  "targets": {
+    "DNX,Version=v4.5.1": {
+      "Microsoft.AspNet.Loader.IIS/1.0.0-beta2": {
+        "type": "package"
+      },
+      "Microsoft.AspNet.Loader.IIS.Interop/1.0.0-beta2": {
+        "type": "package"
+      },
+      "Microsoft.AspNet.Mvc/6.0.0-beta2": {
+        "type": "package"
+      },
+      "Microsoft.AspNet.Server.IIS/1.0.0-beta2": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNet.Loader.IIS": "1.0.0-beta2",
+          "Microsoft.AspNet.Loader.IIS.Interop": "1.0.0-beta2"
+        }
+      }
+    },
+    "DNX,Version=v4.5.1/win7-x86": {
+      "Microsoft.AspNet.Loader.IIS/1.0.0-beta2": {
+        "type": "package"
+      },
+      "Microsoft.AspNet.Loader.IIS.Interop/1.0.0-beta2": {
+        "type": "package"
+      },
+      "Microsoft.AspNet.Mvc/6.0.0-beta2": {
+        "type": "package"
+      },
+      "Microsoft.AspNet.Server.IIS/1.0.0-beta2": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNet.Loader.IIS": "1.0.0-beta2",
+          "Microsoft.AspNet.Loader.IIS.Interop": "1.0.0-beta2"
+        }
+      }
+    },
+    "DNX,Version=v4.5.1/win7-x64": {
+      "Microsoft.AspNet.Loader.IIS/1.0.0-beta2": {
+        "type": "package"
+      },
+      "Microsoft.AspNet.Loader.IIS.Interop/1.0.0-beta2": {
+        "type": "package"
+      },
+      "Microsoft.AspNet.Mvc/6.0.0-beta2": {
+        "type": "package"
+      },
+      "Microsoft.AspNet.Server.IIS/1.0.0-beta2": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNet.Loader.IIS": "1.0.0-beta2",
+          "Microsoft.AspNet.Loader.IIS.Interop": "1.0.0-beta2"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.AspNet.Loader.IIS/1.0.0-beta2": {
+      "type": "package",
+      "sha512": "+YmGB4d8dIofMMIgT02oY4kjl3bkd2UpG9sFVAfiLxjFZWMmaoK2yqX5A0afEtZM6GKjeyWIu0sPwiVvHFEC+g==",
+      "files": [
+        "lib/aspnet50/Microsoft.AspNet.Loader.IIS.dll",
+        "lib/aspnet50/Microsoft.AspNet.Loader.IIS.xml",
+        "lib/aspnetcore50/Microsoft.AspNet.Loader.IIS.dll",
+        "lib/aspnetcore50/Microsoft.AspNet.Loader.IIS.xml",
+        "Microsoft.AspNet.Loader.IIS.1.0.0-beta2.nupkg",
+        "Microsoft.AspNet.Loader.IIS.1.0.0-beta2.nupkg.sha512",
+        "Microsoft.AspNet.Loader.IIS.nuspec"
+      ]
+    },
+    "Microsoft.AspNet.Loader.IIS.Interop/1.0.0-beta2": {
+      "type": "package",
+      "sha512": "NDI3rWaeFS4wF0RJqn4NGwpAnrJpm/5rmIzgj8i7jKvnyx9U2Yv99jNbYFEoCKXLF+nRfiJrHk3UTmh9KxE8YQ==",
+      "files": [
+        "InteropAssemblies/amd64/Microsoft.AspNet.Loader.IIS.Interop.dll",
+        "InteropAssemblies/x86/Microsoft.AspNet.Loader.IIS.Interop.dll",
+        "Microsoft.AspNet.Loader.IIS.Interop.1.0.0-beta2.nupkg",
+        "Microsoft.AspNet.Loader.IIS.Interop.1.0.0-beta2.nupkg.sha512",
+        "Microsoft.AspNet.Loader.IIS.Interop.nuspec",
+        "tools/AspNet.Loader.dll"
+      ]
+    },
+    "Microsoft.AspNet.Mvc/6.0.0-beta2": {
+      "type": "package",
+      "sha512": "19wDxjGeJJ86mFYTa3JO9ATagImTyV9XuogwdQVxps19ojpbmjxoSkOyP6og6bTB9MRGNg5zTc53B+sv1ILgJw==",
+      "files": [
+        "lib/aspnet50/Microsoft.AspNet.Mvc.dll",
+        "lib/aspnet50/Microsoft.AspNet.Mvc.xml",
+        "lib/aspnetcore50/Microsoft.AspNet.Mvc.dll",
+        "lib/aspnetcore50/Microsoft.AspNet.Mvc.xml",
+        "Microsoft.AspNet.Mvc.6.0.0-beta2.nupkg",
+        "Microsoft.AspNet.Mvc.6.0.0-beta2.nupkg.sha512",
+        "Microsoft.AspNet.Mvc.nuspec"
+      ]
+    },
+    "Microsoft.AspNet.Server.IIS/1.0.0-beta2": {
+      "type": "package",
+      "sha512": "TUoO/xSXILLfYASFFN+d3FRLcHu5bzzHSjgxwNJ9oZwnDdmkuWmkdE+nx0yIJqYODVRSkPlS2hcYkFHD2eeQCg==",
+      "files": [
+        "Microsoft.AspNet.Server.IIS.1.0.0-beta2.nupkg",
+        "Microsoft.AspNet.Server.IIS.1.0.0-beta2.nupkg.sha512",
+        "Microsoft.AspNet.Server.IIS.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "": [
+      "Microsoft.AspNet.Server.IIS >= 1.0.0-beta2",
+      "Microsoft.AspNet.Mvc >= 6.0.0-beta2"
+    ]
+  }
+}

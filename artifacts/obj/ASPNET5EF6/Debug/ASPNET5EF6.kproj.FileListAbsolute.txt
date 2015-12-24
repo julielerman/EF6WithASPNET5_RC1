@@ -1,0 +1,1 @@
+C:\Users\julie\Copy\Data Ponits\May 2015 aspnet5 ef7\ASPNET5EF6\artifacts\obj\ASPNET5EF6\Debug\ASPNET5EF6.kprojResolveAssemblyReference.cache

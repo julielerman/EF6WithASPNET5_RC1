@@ -1,0 +1,1 @@
+D:\Dropbox\DataPoints\May 2015 aspnet5 ef7\ASPNET5EF6 - rc1\artifacts\obj\ASPNET5EF6\Debug\ASPNET5EF6.xprojResolveAssemblyReference.cache

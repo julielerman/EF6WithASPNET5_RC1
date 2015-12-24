@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0-*",
+  "frameworks": {
+    "net46": {
+      "wrappedProject": "../../src/EF6Model/EF6Model.csproj",
+      "bin": {
+        "assembly": "../../src/EF6Model/obj/{configuration}/EF6Model.dll",
+        "pdb": "../../src/EF6Model/obj/{configuration}/EF6Model.pdb"
+      },
+      "dependencies": {
+        "EntityFramework": "6.1.3"
+      }
+    }
+  }
+}

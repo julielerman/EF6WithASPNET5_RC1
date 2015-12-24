@@ -1,0 +1,33 @@
+C:\Users\julie\Copy\Data Ponits\May 2015 aspnet5 ef7\ASPNET5EF6\src\EF6Model\obj\Debug\EF6Model.csprojResolveAssemblyReference.cache
+C:\Users\julie\Copy\Data Ponits\May 2015 aspnet5 ef7\ASPNET5EF6\src\EF6Model\bin\Debug\EF6Model.dll.config
+C:\Users\julie\Copy\Data Ponits\May 2015 aspnet5 ef7\ASPNET5EF6\src\EF6Model\bin\Debug\EF6Model.dll
+C:\Users\julie\Copy\Data Ponits\May 2015 aspnet5 ef7\ASPNET5EF6\src\EF6Model\bin\Debug\EF6Model.pdb
+C:\Users\julie\Copy\Data Ponits\May 2015 aspnet5 ef7\ASPNET5EF6\src\EF6Model\bin\Debug\EntityFramework.dll
+C:\Users\julie\Copy\Data Ponits\May 2015 aspnet5 ef7\ASPNET5EF6\src\EF6Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\julie\Copy\Data Ponits\May 2015 aspnet5 ef7\ASPNET5EF6\src\EF6Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\julie\Copy\Data Ponits\May 2015 aspnet5 ef7\ASPNET5EF6\src\EF6Model\obj\Debug\EF6Model.dll
+C:\Users\julie\Copy\Data Ponits\May 2015 aspnet5 ef7\ASPNET5EF6\src\EF6Model\obj\Debug\EF6Model.pdb
+C:\Users\julie\Copy\Data Ponits\May 2015 aspnet5 ef7\ASPNET5EF6\src\EF6Model\obj\Debug\EF6Model.Migrations.Initial.resources
+C:\Users\julie\Copy\Data Ponits\May 2015 aspnet5 ef7\ASPNET5EF6\src\EF6Model\obj\Debug\EF6Model.csproj.GenerateResource.Cache
+D:\COPYdotCOM\Copy\Data Ponits\May 2015 aspnet5 ef7\ASPNET5EF6\src\EF6Model\bin\Debug\EF6Model.dll.config
+D:\COPYdotCOM\Copy\Data Ponits\May 2015 aspnet5 ef7\ASPNET5EF6\src\EF6Model\bin\Debug\EF6Model.dll
+D:\COPYdotCOM\Copy\Data Ponits\May 2015 aspnet5 ef7\ASPNET5EF6\src\EF6Model\bin\Debug\EF6Model.pdb
+D:\COPYdotCOM\Copy\Data Ponits\May 2015 aspnet5 ef7\ASPNET5EF6\src\EF6Model\bin\Debug\EntityFramework.dll
+D:\COPYdotCOM\Copy\Data Ponits\May 2015 aspnet5 ef7\ASPNET5EF6\src\EF6Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\COPYdotCOM\Copy\Data Ponits\May 2015 aspnet5 ef7\ASPNET5EF6\src\EF6Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\COPYdotCOM\Copy\Data Ponits\May 2015 aspnet5 ef7\ASPNET5EF6\src\EF6Model\obj\Debug\EF6Model.csprojResolveAssemblyReference.cache
+D:\COPYdotCOM\Copy\Data Ponits\May 2015 aspnet5 ef7\ASPNET5EF6\src\EF6Model\obj\Debug\EF6Model.Migrations.Initial.resources
+D:\COPYdotCOM\Copy\Data Ponits\May 2015 aspnet5 ef7\ASPNET5EF6\src\EF6Model\obj\Debug\EF6Model.csproj.GenerateResource.Cache
+D:\COPYdotCOM\Copy\Data Ponits\May 2015 aspnet5 ef7\ASPNET5EF6\src\EF6Model\obj\Debug\EF6Model.dll
+D:\COPYdotCOM\Copy\Data Ponits\May 2015 aspnet5 ef7\ASPNET5EF6\src\EF6Model\obj\Debug\EF6Model.pdb
+D:\Dropbox\DataPoints\May 2015 aspnet5 ef7\ASPNET5EF6 - rc1\src\EF6Model\bin\Debug\EF6Model.dll
+D:\Dropbox\DataPoints\May 2015 aspnet5 ef7\ASPNET5EF6 - rc1\src\EF6Model\bin\Debug\EF6Model.pdb
+D:\Dropbox\DataPoints\May 2015 aspnet5 ef7\ASPNET5EF6 - rc1\src\EF6Model\bin\Debug\EntityFramework.dll
+D:\Dropbox\DataPoints\May 2015 aspnet5 ef7\ASPNET5EF6 - rc1\src\EF6Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Dropbox\DataPoints\May 2015 aspnet5 ef7\ASPNET5EF6 - rc1\src\EF6Model\bin\Debug\EntityFramework.xml
+D:\Dropbox\DataPoints\May 2015 aspnet5 ef7\ASPNET5EF6 - rc1\src\EF6Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Dropbox\DataPoints\May 2015 aspnet5 ef7\ASPNET5EF6 - rc1\src\EF6Model\obj\Debug\EF6Model.csprojResolveAssemblyReference.cache
+D:\Dropbox\DataPoints\May 2015 aspnet5 ef7\ASPNET5EF6 - rc1\src\EF6Model\obj\Debug\EF6Model.Migrations.Initial.resources
+D:\Dropbox\DataPoints\May 2015 aspnet5 ef7\ASPNET5EF6 - rc1\src\EF6Model\obj\Debug\EF6Model.csproj.GenerateResource.Cache
+D:\Dropbox\DataPoints\May 2015 aspnet5 ef7\ASPNET5EF6 - rc1\src\EF6Model\obj\Debug\EF6Model.dll
+D:\Dropbox\DataPoints\May 2015 aspnet5 ef7\ASPNET5EF6 - rc1\src\EF6Model\obj\Debug\EF6Model.pdb
