@@ -8,3 +8,15 @@ D:\Data Points\Feb 2016 IOC\ASPNET5EF6 - rc1\src\EF6Model\bin\Debug\EntityFramew
 D:\Data Points\Feb 2016 IOC\ASPNET5EF6 - rc1\src\EF6Model\bin\Debug\EntityFramework.SqlServer.xml
 D:\Data Points\Feb 2016 IOC\ASPNET5EF6 - rc1\src\EF6Model\obj\Debug\EF6Model.dll
 D:\Data Points\Feb 2016 IOC\ASPNET5EF6 - rc1\src\EF6Model\obj\Debug\EF6Model.pdb
+C:\Users\julie\Documents\GitHub\EF6WithASPNET5_RC1\src\EF6Model\bin\Debug\EF6Model.dll
+C:\Users\julie\Documents\GitHub\EF6WithASPNET5_RC1\src\EF6Model\bin\Debug\EF6Model.pdb
+C:\Users\julie\Documents\GitHub\EF6WithASPNET5_RC1\src\EF6Model\bin\Debug\EntityFramework.dll
+C:\Users\julie\Documents\GitHub\EF6WithASPNET5_RC1\src\EF6Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\julie\Documents\GitHub\EF6WithASPNET5_RC1\src\EF6Model\bin\Debug\EntityFramework.xml
+C:\Users\julie\Documents\GitHub\EF6WithASPNET5_RC1\src\EF6Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\julie\Documents\GitHub\EF6WithASPNET5_RC1\src\EF6Model\obj\Debug\EF6Model.Migrations.Initial.resources
+C:\Users\julie\Documents\GitHub\EF6WithASPNET5_RC1\src\EF6Model\obj\Debug\EF6Model.csproj.GenerateResource.Cache
+C:\Users\julie\Documents\GitHub\EF6WithASPNET5_RC1\src\EF6Model\obj\Debug\EF6Model.dll
+C:\Users\julie\Documents\GitHub\EF6WithASPNET5_RC1\src\EF6Model\obj\Debug\EF6Model.pdb
+C:\Users\julie\Documents\GitHub\EF6WithASPNET5_RC1\src\EF6Model\bin\Debug\EF6Model.dll.config
+C:\Users\julie\Documents\GitHub\EF6WithASPNET5_RC1\src\EF6Model\obj\Debug\EF6Model.csprojResolveAssemblyReference.cache
